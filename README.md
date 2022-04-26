@@ -18,9 +18,27 @@ Here are some ideas to get you started:
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 </h3>
 
-![Winston's GitHub stats](https://github-readme-stats.vercel.app/api?username=WinstonYa&show_icons=true)
+## 🥱About me
 
-🎉 **Welcome to my GitHub profile!**
+- Name: WinstonYa/Sheng Wang
+- Hometown: Huangmei/Huanggang, Hubei Province in China
+- Undergraduate(2015.9-2019.6): animation major, Hubei University of Technology
+
+## 📈Statistics
+
+<div align="center">
+<span>&emsp;&emsp;</span>
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=WinstonYa" /><span>&emsp;&emsp;</span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WinstonYa&layout=compact&langs_count=8" />
+<span>&emsp;&emsp;</span>
+</div>
+
+<div align="center">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=WinstonYa" />
+</div>
+
+<div align="center">
+    <img  src="https://activity-graph.herokuapp.com/graph?username=WinstonYa&theme=github" />
+</div>
 
 
 <!-- waka readme - https://github.com/athul/waka-readme -->
