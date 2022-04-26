@@ -69,14 +69,8 @@ Here are some ideas to get you started:
 
 </br>
 
-<!-- waka readme - https://github.com/athul/waka-readme -->
-
 📊 **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
 
 <!--END_SECTION:waka-->
