@@ -18,6 +18,10 @@ Here are some ideas to get you started:
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 </h3>
 
+<div align="center">
+    <a title="github" target="_blank" href="https://github.com/WinstonYa"><img src="https://img.shields.io/badge/dynamic/json?color=24292e&label=GitHub&query=%24.data.totalSubs&suffix=%20%20%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DWinstonYa" ></a>
+</div>
+
 ## 🥱About me
 
 - Name: WinstonYa/Sheng Wang
