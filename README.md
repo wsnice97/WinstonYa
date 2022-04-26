@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </div>
 
 <!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="![](https://raw.githubusercontent.com/WinstonYa/WinstonYa/main/assets/github-contribution-grid-snake.svg)" /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/WinstonYa/WinstonYa/main/assets/github-contribution-grid-snake.svg" /></div>
 
 ## 🥱About me
 
@@ -60,8 +60,3 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
-
-
-<div align="center">
-    <img  src="https://metrics.lecoq.io/WinstonYa?template=classic&isocalendar=1&languages=1&people=1&code=1&achievements=1&notable=1&introduction=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&introduction.title=true&config.timezone=Asia%2FShanghai" />
-</div>
