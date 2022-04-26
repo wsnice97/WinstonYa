@@ -21,14 +21,25 @@ Here are some ideas to get you started:
 <!-- 敲代码的图片 -->
 <div align="center" ><img order-radius="100px" src="./code.gif"/></div>
 
-<div align="center">
-    <a title="github" target="_blank" href="https://github.com/WinstonYa"><img src="https://img.shields.io/badge/dynamic/json?color=24292e&label=GitHub&query=%24.data.totalSubs&suffix=%20%20%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DWinstonYa" ></a>
+**Languages and Tools:**
+
+<div  align="center" style="display:flex;justify-content:center;align-items:center;">
+    <img height="50" style="margin-right:10px" src="./svg/html_5.svg">
+    <img height="50"style="margin-right:10px" src="./svg/css3.svg">
+    <img height="40"style="margin-right:10px" src="./svg/javascript.svg">
+    <img height="40"style="margin-right:10px" src="./svg/typescript_.svg">
+    <img height="50"style="margin-right:10px" src="./svg/Vue.svg">
+    <img height="50"style="margin-right:10px" src="./svg/node.svg">
 </div>
+
+<!-- <div align="center">
+    <a title="github" target="_blank" href="https://github.com/WinstonYa"><img src="https://img.shields.io/badge/dynamic/json?color=24292e&label=GitHub&query=%24.data.totalSubs&suffix=%20%20%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DWinstonYa" ></a>
+</div> -->
 
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://raw.githubusercontent.com/WinstonYa/WinstonYa/main/assets/github-contribution-grid-snake.svg" /></div>
 
-## 🥱About me
+## 😊 About me
 
 - Name: WinstonYa/Sheng Wang
 - Hometown: Huangmei/Huanggang, Hubei Province in China
@@ -55,9 +66,10 @@ Here are some ideas to get you started:
 
 </br>
 
-
 <!-- waka readme - https://github.com/athul/waka-readme -->
+
 📊 **This Week I Spent My Time On:**
+
 <!--START_SECTION:waka-->
 
 ```text
