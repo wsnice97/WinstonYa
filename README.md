@@ -31,7 +31,7 @@ Here are some ideas to get you started:
     <img height="50" src="./svg/Vue.svg">
     <img height="50" src="./svg/node.svg">
     <img height="50" src="./svg/react.svg">
-    <img height="50" src="./svg/element.svg">
+    <img height="50" src="./svg/element-ui.svg">
     <img height="50" src="./svg/antd.svg">
 </div>
 
