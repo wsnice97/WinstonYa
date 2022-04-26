@@ -23,13 +23,16 @@ Here are some ideas to get you started:
 
 **Languages and Tools:**
 
-<div  align="center" style="display:flex;justify-content:center;align-items:center;">
-    <img height="50" style="margin-right:20px" src="./svg/html_5.svg">
-    <img height="50" style="margin-right:20px" src="./svg/css3.svg">
-    <img height="50" style="margin-right:20px" src="./svg/javascript.svg">
-    <img height="50" style="margin-right:20px" src="./svg/typescript_.svg">
-    <img height="50" style="margin-right:20px" src="./svg/Vue.svg">
+<div  align="center">
+    <img height="50" src="./svg/html_5.svg">
+    <img height="50" src="./svg/css3.svg">
+    <img height="50" src="./svg/javascript.svg">
+    <img height="50" src="./svg/typescript_.svg">
+    <img height="50" src="./svg/Vue.svg">
     <img height="50" src="./svg/node.svg">
+    <img height="50" src="./svg/react.svg">
+    <img height="50" src="./svg/Element.svg">
+    <img height="50" src="./svg/antd.svg">
 </div>
 
 <!-- <div align="center">
