@@ -46,6 +46,7 @@ Here are some ideas to get you started:
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=WinstonYa" />
 </div>
 
+<!-- 代码贡献月份统计 -->
 <div align="center">
     <img  src="https://activity-graph.herokuapp.com/graph?username=WinstonYa&theme=github" />
 </div>
