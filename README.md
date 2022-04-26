@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 <span>&emsp;&emsp;</span>
-<img width="40%" height="170px" src="https://github-readme-stats.vercel.app/api?username=WinstonYa" /><span>&emsp;&emsp;</span><img width="40%" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WinstonYa&layout=compact&langs_count=8" />
+<img width="43%" src="https://github-readme-stats.vercel.app/api?username=WinstonYa" /><span>&emsp;&emsp;</span><img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WinstonYa&layout=compact&langs_count=8" />
 <span>&emsp;&emsp;</span>
 </div>
 
