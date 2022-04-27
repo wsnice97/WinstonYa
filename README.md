@@ -16,6 +16,12 @@ Here are some ideas to get you started:
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 </h3>
 
+## 😊 About me
+
+- Name: WinstonYa/Sheng Wang
+- Hometown: Huangmei/Huanggang, Hubei Province in China
+- Undergraduate(2015.9-2019.6): animation major, Hubei University of Technology
+
 <!-- 敲代码的图片 -->
 <p align="center" >
     <img height="200" src="./code.gif"/>    
@@ -45,11 +51,6 @@ Here are some ideas to get you started:
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://raw.githubusercontent.com/WinstonYa/WinstonYa/main/assets/github-contribution-grid-snake.svg" /></div>
 
-## 😊 About me
-
-- Name: WinstonYa/Sheng Wang
-- Hometown: Huangmei/Huanggang, Hubei Province in China
-- Undergraduate(2015.9-2019.6): animation major, Hubei University of Technology
 
 ## 📈Statistics
 
@@ -66,7 +67,7 @@ Here are some ideas to get you started:
 </p>
 
 
-📊 **This Week I Spent My Time On:**
+## 📊 This Week I Spent My Time On
 
 <!--START_SECTION:waka-->
 
