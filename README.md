@@ -16,6 +16,10 @@ Here are some ideas to get you started:
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 </h3>
 
+<p align="center">   
+    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=WinstonYa&theme=onedark" />
+</p>
+
 <!-- 敲代码的图片 -->
 <p align="center">
     <img src="./code.gif"/>    
@@ -23,27 +27,18 @@ Here are some ideas to get you started:
 
 ## 😊 About me
 
-- Name: WinstonYa/Sheng Wang
-- Hometown: Huangmei/Huanggang, Hubei Province in China
-- Undergraduate(2015.9 - 2019.6): animation major, Hubei University of Technology
-
-<p align="center">   
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=WinstonYa&theme=onedark" />
-</p>
+- 👨‍💻Name: WinstonYa/Sheng Wang
+- 🏡Hometown: Huangmei/Huanggang, Hubei Province in China
+- 🏫Undergraduate(2015.9 - 2019.6): animation major, Hubei University of Technology
+- 📫 How to reach me: ✉️ [Email](mailto:2215444192@qq.com) OR ![Wechat](https://img.shields.io/badge/Alex5198023-5fcd72.svg?logo=wechat&logoColor=white)
+- 💬 Ask me about anything, I am happy to help;
 
 ## 😜 Languages and Tools
 
 <p  align="center">
-    <img height="30" src="./svg/html_5.svg">
-    <img height="30" src="./svg/css3.svg">
-    <img height="30" src="./svg/javascript.svg">
-    <img height="30" src="./svg/typescript_.svg">
-    <img height="30" src="./svg/Vue.svg">
-    <img height="30" src="./svg/node.svg">
-    <img height="30" src="./svg/react.svg">
-    <img height="30" src="./svg/element-ui.svg">
-    <img height="30" src="./svg/antd.svg">
+
 </p>
+
 
 <p align="center">
     <a title="github" target="_blank" href="https://github.com/WinstonYa">
@@ -70,6 +65,7 @@ Here are some ideas to get you started:
 </p>
 
 
+<!-- waka readme - https://github.com/athul/waka-readme -->
 ## 📊 This Week I Spent My Time On
 
 <!--START_SECTION:waka-->
