@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </p>
 
 
- <img align="right" alt="GIF" width="450" src="./code.gif"/>  
+ <img align="right" alt="GIF" width="400" src="./code.gif"/>  
 
  ## 😜Languages and Tools
 
