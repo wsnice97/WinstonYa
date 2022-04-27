@@ -1,6 +1,4 @@
 <!--
-**pudongping/pudongping** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -19,7 +17,10 @@ Here are some ideas to get you started:
 </h3>
 
 <!-- 敲代码的图片 -->
-<p align="center" ><img order-radius="100px" src="./code.gif"/></p>
+<p align="center" >
+    <img height="200" src="./code.gif"/>    
+    <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=WinstonYa&theme=onedark" />
+</p>
 
 ## 😜 Languages and Tools
 
@@ -36,7 +37,9 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-    <a title="github" target="_blank" href="https://github.com/WinstonYa"><img src="https://img.shields.io/badge/dynamic/json?color=24292e&label=GitHub&query=%24.data.totalSubs&suffix=%20%20%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DWinstonYa" ></a>
+    <a title="github" target="_blank" href="https://github.com/WinstonYa">
+        <img src="https://img.shields.io/badge/dynamic/json?color=24292e&label=GitHub&query=%24.data.totalSubs&suffix=%20%20%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DWinstonYa" >
+    </a>
 </p>
 
 <!-- 贪吃蛇代码贡献图 -->
@@ -56,9 +59,6 @@ Here are some ideas to get you started:
 <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WinstonYa&layout=compact&langs_count=8&theme=calm&layout=compact&hide=ejs,blade,html,css" />
 </p>
 
-<p align="center">
-    <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=WinstonYa&theme=onedark" />
-</p>
 
 <!-- 代码贡献月份统计 -->
 <p align="center">
