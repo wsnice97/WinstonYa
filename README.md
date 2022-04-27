@@ -74,7 +74,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 19 April 2022 - To: 26 April 2022
+
+Markdown     4 hrs 11 mins   ██████████████████░░░░░░░   72.58 %
+YAML         1 hr 26 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.99 %
+Vue.js       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+LESS         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+TypeScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+Go           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 ```
 
 <!--END_SECTION:waka-->
