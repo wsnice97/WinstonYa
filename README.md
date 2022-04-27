@@ -20,7 +20,7 @@ Here are some ideas to get you started:
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=WinstonYa&theme=onedark" />
 </p>
 
- <img align="right" alt="GIF" width="400" src="./code.gif"/>  
+ <img align="right" alt="GIF" width="500" src="./code.gif"/>  
 
 😜 **Languages and Tools**
 
