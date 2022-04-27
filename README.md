@@ -37,8 +37,8 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&logo=react&logoColor=%2361DAFB&logoColor=white&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/markdown-%23000000.svg?&logo=markdown&logoColor=white&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&logo=tailwind-css&logoColor=white&style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&logo=jquery&logoColor=white&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/SASS%20-hotpink.svg?&logo=SASS&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/less-2B4C80?&logo=less&logoColor=white&style=for-the-badge" />
     <img src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82"/>
     <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" />
     <img src="https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&logo=nestjs&logoColor=white&style=for-the-badge" />
@@ -47,14 +47,11 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/github%20-%23121011.svg?&logo=github&logoColor=white&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/mysql-blue.svg?&logo=mysql&logoColor=white&style=for-the-badge"/> 
     <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?&logo=yarn&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/NPM-%23000000.svg?&logo=npm&logoColor=white&style=for-the-badge" />
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?&logo=visual-studio-code&logoColor=white&style=for-the-badge" />
     <img src="https://img.shields.io/badge/mac%20os-000000?&logo=macos&logoColor=F0F0F0&logoColor=white&style=for-the-badge" />
     <img src="https://img.shields.io/badge/Windows-0078D6?&logo=windows&logoColor=white&style=for-the-badge" />
     <img src="https://img.shields.io/badge/ESLint-4B3263?&logo=eslint&logoColor=white&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/google-4285F4?&logo=google&logoColor=white&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/less-2B4C80?&logo=less&logoColor=white&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/NPM-%23000000.svg?&logo=npm&logoColor=white&style=for-the-badge" />
-    
 </p>
 
 
