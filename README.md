@@ -15,29 +15,29 @@ Here are some ideas to get you started:
 
 <h3 align="center">
     Hi~ Thank you for coming!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 </h3>
 
 <!-- 敲代码的图片 -->
-<div align="center" ><img order-radius="100px" src="./code.gif"/></div>
+<p align="center" ><img order-radius="100px" src="./code.gif"/></p>
 
-**Languages and Tools:**
+## 😜 Languages and Tools
 
-<div  align="center">
-    <img height="50" src="./svg/html_5.svg">
-    <img height="50" src="./svg/css3.svg">
-    <img height="50" src="./svg/javascript.svg">
-    <img height="50" src="./svg/typescript_.svg">
-    <img height="50" src="./svg/Vue.svg">
-    <img height="50" src="./svg/node.svg">
-    <img height="50" src="./svg/react.svg">
-    <img height="50" src="./svg/element-ui.svg">
-    <img height="50" src="./svg/antd.svg">
-</div>
+<p  align="center">
+    <img height="30" src="./svg/html_5.svg">
+    <img height="30" src="./svg/css3.svg">
+    <img height="30" src="./svg/javascript.svg">
+    <img height="30" src="./svg/typescript_.svg">
+    <img height="30" src="./svg/Vue.svg">
+    <img height="30" src="./svg/node.svg">
+    <img height="30" src="./svg/react.svg">
+    <img height="30" src="./svg/element-ui.svg">
+    <img height="30" src="./svg/antd.svg">
+</p>
 
-<!-- <div align="center">
+<p align="center">
     <a title="github" target="_blank" href="https://github.com/WinstonYa"><img src="https://img.shields.io/badge/dynamic/json?color=24292e&label=GitHub&query=%24.data.totalSubs&suffix=%20%20%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DWinstonYa" ></a>
-</div> -->
+</p>
 
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://raw.githubusercontent.com/WinstonYa/WinstonYa/main/assets/github-contribution-grid-snake.svg" /></div>
@@ -50,24 +50,21 @@ Here are some ideas to get you started:
 
 ## 📈Statistics
 
-<div align="center">
-<span>&emsp;&emsp;</span>
-<img width="43%" src="https://github-readme-stats.vercel.app/api?username=WinstonYa" /><span>&emsp;&emsp;</span><img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WinstonYa&layout=compact&langs_count=8" />
-<span>&emsp;&emsp;</span>
-</div>
+<p align="center">
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=vue-dark&count_private=true" />
 
-<div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=WinstonYa" />
-</div>
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WinstonYa&layout=compact&langs_count=8&theme=calm&layout=compact&hide=ejs,blade,html,css" />
+</p>
 
-</br>
+<p align="center">
+    <img width="100%"  src="https://github-readme-streak-stats.herokuapp.com/?user=WinstonYa&theme=onedark" />
+</p>
 
 <!-- 代码贡献月份统计 -->
-<div align="center">
+<p align="center">
     <img  src="https://activity-graph.herokuapp.com/graph?username=WinstonYa&theme=github" />
-</div>
+</p>
 
-</br>
 
 📊 **This Week I Spent My Time On:**
 
