@@ -3,8 +3,8 @@ name: Waka Readme
 on:
   workflow_dispatch:
   schedule:
-    # Runs every 4 hours
-    - cron: '0 */4 * * *'
+    # Runs at every 12AM UTC
+    - cron: "0 0 * * *"
 
 jobs:
   update-readme:
@@ -16,5 +16,5 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
           SHOW_TOTAL : true
-          TIME_RANGE: last_30_days
+          # TIME_RANGE: last_30_days
           # BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
