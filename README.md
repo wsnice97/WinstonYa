@@ -20,6 +20,11 @@ Here are some ideas to get you started:
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=WinstonYa&theme=onedark" />
 </p>
 
+
+ <img align="right" alt="GIF" width="500" height="320" src="./code.gif"/>  
+
+ ## 😜Languages and Tools
+
 <!-- 敲代码的图片 -->
 <p align="center">
     <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&logo=node.js&logoColor=white&style=for-the-badge"/>
@@ -45,9 +50,9 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/bitbucket%20-%230047B3.svg?&logo=bitbucket&logoColor=white&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/nginx%20-%23009639.svg?&logo=nginx&logoColor=white&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/apache%20-%23D42029.svg?&logo=apache&logoColor=white&style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/mysql-blue.svg?&logo=mysql&logoColor=white&style=for-the-badge"/>
-<img align="right" alt="GIF" width="300" height="220" src="./code.gif"/>    
+    <img src="https://img.shields.io/badge/mysql-blue.svg?&logo=mysql&logoColor=white&style=for-the-badge"/> 
 </p>
+
 
 <br/>
 
@@ -58,12 +63,6 @@ Here are some ideas to get you started:
 - 🏫Undergraduate(2015.9 - 2019.6): animation major, Hubei University of Technology
 - 📫 How to reach me: ✉️ [Email](mailto:2215444192@qq.com) OR ![Wechat](https://img.shields.io/badge/-WinstonYar-1?logo=wechat&logoColor=white)
 - 💬 Ask me about anything, I am happy to help;
-
-## 😜 Languages and Tools
-
-<p  align="center">
-
-</p>
 
 
 <p align="center">
