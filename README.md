@@ -17,9 +17,8 @@ Here are some ideas to get you started:
 </h3>
 
 <!-- 敲代码的图片 -->
-<p align="center" >
-    <img height="200" src="./code.gif"/>    
-    <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=WinstonYa&theme=onedark" />
+<p align="center">
+    <img src="./code.gif"/>    
 </p>
 
 ## 😊 About me
@@ -27,6 +26,10 @@ Here are some ideas to get you started:
 - Name: WinstonYa/Sheng Wang
 - Hometown: Huangmei/Huanggang, Hubei Province in China
 - Undergraduate(2015.9 - 2019.6): animation major, Hubei University of Technology
+
+<p align="center">   
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=WinstonYa&theme=onedark" />
+</p>
 
 ## 😜 Languages and Tools
 
