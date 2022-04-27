@@ -20,15 +20,13 @@ Here are some ideas to get you started:
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=WinstonYa&theme=onedark" />
 </p>
 
-
  <img align="right" alt="GIF" width="400" src="./code.gif"/>  
 
- ## 😜Languages and Tools
+😜 **Languages and Tools**
 
 <!-- 敲代码的图片 -->
 <p align="center">
     <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&logo=node.js&logoColor=white&style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&logo=express&logoColor=white&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&logo=javascript&logoColor=%23F7DF1E&logoColor=white&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&logo=typescript&logoColor=white&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&logo=html5&logoColor=white&style=for-the-badge"/>
@@ -42,6 +40,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82"/>
     <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" />
     <img src="https://img.shields.io/badge/ESLint-4B3263?&logo=eslint&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&logo=express&logoColor=white&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&logo=nestjs&logoColor=white&style=for-the-badge" />
     <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&logo=git&logoColor=white&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&logo=gitlab&logoColor=white&style=for-the-badge"/>
@@ -92,7 +91,7 @@ Here are some ideas to get you started:
 
 
 <!-- waka readme - https://github.com/athul/waka-readme -->
-## 📊 This Week I Spent My Time On
+📊 **This Week I Spent My Time On**
 
 <!--START_SECTION:waka-->
 
