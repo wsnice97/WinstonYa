@@ -20,7 +20,21 @@ Here are some ideas to get you started:
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=WinstonYa&theme=onedark" />
 </p>
 
- <img align="right" alt="GIF" width="500" src="./code.gif"/>  
+## 😊 About me
+<p align="center">
+    <img src="https://img.shields.io/badge/gender-%F0%9F%A4%B5 gentleman-critical">
+    <img src="https://img.shields.io/badge/dynamic/json?color=24292e&label=GitHub&query=%24.data.totalSubs&suffix=%20%20%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DWinstonYa" >
+    <img src="https://img.shields.io/static/v1?label=wechat&message=WinstonYar&color=7BB32E&logo=wechat">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=WinstonYa.WinstonYa">
+</p>
+
+- 👨‍💻Name: WinstonYa/Sheng Wang
+- 🏡Hometown: Huangmei/Huanggang, Hubei Province in China
+- 🏫Undergraduate(2015.9 - 2019.6): animation major, Hubei University of Technology
+- 📫 How to reach me: ✉️ [Email](mailto:2215444192@qq.com) OR ![Wechat](https://img.shields.io/badge/-WinstonYar-1?logo=wechat&logoColor=white)
+- 💬 Ask me about anything, I am happy to help;
+
+<img align="right" alt="GIF" width="450" src="./code.gif"/>  
 
 😜 **Languages and Tools**
 
@@ -51,24 +65,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/mac%20os-000000?&logo=macos&logoColor=F0F0F0&logoColor=white&style=for-the-badge" />
     <img src="https://img.shields.io/badge/Windows-0078D6?&logo=windows&logoColor=white&style=for-the-badge" />
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?&logo=visual-studio-code&logoColor=white&style=for-the-badge" />
-</p>
-
-
-<br/>
-
-## 😊 About me
-
-- 👨‍💻Name: WinstonYa/Sheng Wang
-- 🏡Hometown: Huangmei/Huanggang, Hubei Province in China
-- 🏫Undergraduate(2015.9 - 2019.6): animation major, Hubei University of Technology
-- 📫 How to reach me: ✉️ [Email](mailto:2215444192@qq.com) OR ![Wechat](https://img.shields.io/badge/-WinstonYar-1?logo=wechat&logoColor=white)
-- 💬 Ask me about anything, I am happy to help;
-
-
-<p align="center">
-    <a title="github" target="_blank" href="https://github.com/WinstonYa">
-        <img src="https://img.shields.io/badge/dynamic/json?color=24292e&label=GitHub&query=%24.data.totalSubs&suffix=%20%20%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DWinstonYa" >
-    </a>
 </p>
 
 <!-- 贪吃蛇代码贡献图 -->
