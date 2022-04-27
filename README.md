@@ -27,30 +27,37 @@ Here are some ideas to get you started:
 
 <!-- 敲代码的图片 -->
 <p align="center">
-    <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&logo=node.js&logoColor=white&style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&logo=express&style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&logo=javascript&logoColor=%23F7DF1E&style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&logo=typescript&logoColor=white&style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&logo=html5&logoColor=white&style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&logo=css3&logoColor=white&style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&logo=vue.js&logoColor=%234FC08D&style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-    <img src="https://img.shields.io/badge/markdown-%23000000.svg?&logo=markdown&logoColor=white&style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&logo=tailwind-css&logoColor=white&style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&logo=jquery&logoColor=white&style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/SASS%20-hotpink.svg?&logo=SASS&logoColor=white&style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/NuxtJS%20-green.svg?&logo=Nuxt.js&logoColor=white&style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&logo=webpack&logoColor=black&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&logo=nestjs&logoColor=white&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&logo=adobe%20photoshop&logoColor=white&style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/adobe%20illustrator%20-%23FF9A00.svg?&logo=adobe%20illustrator&logoColor=white&style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&logo=git&logoColor=white&style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&logo=gitlab&logoColor=white&style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/github%20-%23121011.svg?&logo=github&logoColor=white&style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/bitbucket%20-%230047B3.svg?&logo=bitbucket&logoColor=white&style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/nginx%20-%23009639.svg?&logo=nginx&logoColor=white&style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/apache%20-%23D42029.svg?&logo=apache&logoColor=white&style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/mysql-blue.svg?&logo=mysql&logoColor=white&style=for-the-badge"/> 
+    <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&logo=node.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&logo=express"/>
+    <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&logo=javascript&logoColor=%23F7DF1E"/>
+    <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&logo=typescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&logo=vue.js&logoColor=%234FC08D"/>
+    <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&logo=react&logoColor=%2361DAFB"/>
+    <img src="https://img.shields.io/badge/markdown-%23000000.svg?&logo=markdown&logoColor=white"/>
+    <img src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&logo=tailwind-css&logoColor=white"/>
+    <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&logo=jquery&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SASS%20-hotpink.svg?&logo=SASS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Nuxt-002E3B?&logo=nuxtdotjs&logoColor=#00DC82"/>
+    <img src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&logo=webpack&logoColor=black" />
+    <img src="https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&logo=nestjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&logo=gitlab&logoColor=white"/>
+    <img src="https://img.shields.io/badge/github%20-%23121011.svg?&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/bitbucket%20-%230047B3.svg?&logo=bitbucket&logoColor=white"/>
+    <img src="https://img.shields.io/badge/nginx%20-%23009639.svg?&logo=nginx&logoColor=white"/>
+    <img src="https://img.shields.io/badge/mysql-blue.svg?&logo=mysql&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?&logo=yarn&logoColor=white" />
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?&logo=visual-studio-code&logoColor=white" />
+    <img src="https://img.shields.io/badge/mac%20os-000000?&logo=macos&logoColor=F0F0F0" />
+    <img src="https://img.shields.io/badge/Windows-0078D6?&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/ESLint-4B3263?&logo=eslint&logoColor=white" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?&logo=postman&logoColor=white" />
+    <img src="https://img.shields.io/badge/google-4285F4?&logo=google&logoColor=white" />
+    <img src="https://img.shields.io/badge/less-2B4C80?&logo=less&logoColor=white" />
+    <img src="https://img.shields.io/badge/NPM-%23000000.svg?&logo=npm&logoColor=white" />
+    
 </p>
 
 
