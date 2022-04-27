@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - 👨‍💻Name: WinstonYa/Sheng Wang
 - 🏡Hometown: Huangmei/Huanggang, Hubei Province in China
 - 🏫Undergraduate(2015.9 - 2019.6): animation major, Hubei University of Technology
-- 📫 How to reach me: ![Email](https://img.shields.io/badge/-2215444192@qq.com-1?logo=gMail&logoColor=white) OR ![Wechat](https://img.shields.io/badge/-WinstonYar-1?logo=wechat&logoColor=white)
+- 📫 How to reach me: ![Email](https://img.shields.io/badge/-2215444192@qq.com-blue?logo=gMail&logoColor=white) OR ![Wechat](https://img.shields.io/badge/-WinstonYar-1?logo=wechat&logoColor=white)
 - 💬 Ask me about anything, I am happy to help
 
 <img align="right" alt="GIF" width="450" src="./code.gif"/>  
