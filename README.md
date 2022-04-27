@@ -74,7 +74,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 April 2022 - To: 26 April 2022
+From: 27 March 2022 - To: 26 April 2022
+
+Total Time: 5 hrs 46 mins
 
 Markdown     4 hrs 11 mins   ██████████████████░░░░░░░   72.58 %
 YAML         1 hr 26 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.99 %
