@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - 🏡Hometown: Huangmei/Huanggang, Hubei Province in China
 - 🏫Undergraduate(2015.9 - 2019.6): animation major, Hubei University of Technology
 - 📫 How to reach me: ✉️ [Email](mailto:2215444192@qq.com) OR ![Wechat](https://img.shields.io/badge/-WinstonYar-1?logo=wechat&logoColor=white)
-- 💬 Ask me about anything, I am happy to help;
+- 💬 Ask me about anything, I am happy to help
 
 <img align="right" alt="GIF" width="450" src="./code.gif"/>  
 
@@ -67,10 +67,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?&logo=visual-studio-code&logoColor=white&style=for-the-badge" />
 </p>
 
-<!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://raw.githubusercontent.com/WinstonYa/WinstonYa/main/assets/github-contribution-grid-snake.svg" /></div>
-
-
 ## 📈Statistics
 
 <p align="center">
@@ -82,6 +78,8 @@ Here are some ideas to get you started:
 
 <!-- 代码贡献月份统计 -->
 <p align="center">
+<!-- 贪吃蛇代码贡献图 -->
+    <img src="https://raw.githubusercontent.com/WinstonYa/WinstonYa/main/assets/github-contribution-grid-snake.svg" />
     <img  src="https://activity-graph.herokuapp.com/graph?username=WinstonYa&theme=github" />
 </p>
 
