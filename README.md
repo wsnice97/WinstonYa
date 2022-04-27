@@ -16,17 +16,18 @@ Here are some ideas to get you started:
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 </h3>
 
-## 😊 About me
-
-- Name: WinstonYa/Sheng Wang
-- Hometown: Huangmei/Huanggang, Hubei Province in China
-- Undergraduate(2015.9-2019.6): animation major, Hubei University of Technology
-
 <!-- 敲代码的图片 -->
 <p align="center" >
     <img height="200" src="./code.gif"/>    
     <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=WinstonYa&theme=onedark" />
 </p>
+
+## 😊 About me
+
+- 𝓝𝓪𝓶𝓮: 𝓦𝓲𝓷𝓼𝓽𝓸𝓷𝓨𝓪/𝓢𝓱𝓮𝓷𝓰 𝓦𝓪𝓷𝓰
+- 𝓗𝓸𝓶𝓮𝓽𝓸𝔀𝓷: 𝓗𝓾𝓪𝓷𝓰𝓶𝓮𝓲/𝓗𝓾𝓪𝓷𝓰𝓰𝓪𝓷𝓰, 𝓗𝓾𝓫𝓮𝓲 𝓟𝓻𝓸v𝓲𝓷𝓬𝓮 𝓲𝓷 𝓒𝓱𝓲𝓷𝓪
+- 𝓤𝓷𝓭𝓮𝓻𝓰𝓻𝓪𝓭𝓾𝓪𝓽𝓮(𝟮𝟬𝟭𝟱.𝟵-𝟮𝟬𝟭𝟵.𝟲): 𝓪𝓷𝓲𝓶𝓪𝓽𝓲𝓸𝓷 𝓶𝓪𝓳𝓸𝓻, 𝓗𝓾𝓫𝓮𝓲 𝓤𝓷𝓲v𝓮𝓻𝓼𝓲𝓽𝔂 𝓸𝓯 𝓣𝓮𝓬𝓱𝓷𝓸𝓵𝓸𝓰𝔂
+
 
 ## 😜 Languages and Tools
 
