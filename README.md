@@ -67,6 +67,8 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?&logo=visual-studio-code&logoColor=white&style=for-the-badge" />
 </p>
 
+<br/>
+
 ## 📈Statistics
 
 <p align="center">
