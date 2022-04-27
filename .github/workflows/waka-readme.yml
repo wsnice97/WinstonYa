@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   schedule:
     # Runs at every 12AM UTC
-    - cron: "0 0 * * *"
+    - cron: '0 */4 * * *'
 
 jobs:
   update-readme:
@@ -17,6 +17,14 @@ jobs:
           SHOW_TITLE: true
           TIME_RANGE: last_30_days
           SHOW_TOTAL : true
+          SHOW_OS: true
+          SHOW_PROJECTS: true
+          SHOW_PROFILE_VIEWS: true
+          SHOW_EDITORS: true
+          SHOW_LANGUAGE_PER_REPO: true
+          SHOW_LOC_CHART: true
+          SHOW_LINES_OF_CODE: true
+          SHOW_SHORT_INFO: true
 
 
 # name: Waka Readme
