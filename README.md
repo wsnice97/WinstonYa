@@ -92,16 +92,16 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 December 2022 - To: 25 December 2022
+From: 19 December 2022 - To: 26 December 2022
 
-Total Time: 15 hrs 36 mins
+Total Time: 9 hrs 25 mins
 
-Vue.js       10 hrs 38 mins  █████████████████░░░░░░░░   68.12 %
-JavaScript   3 hrs 14 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.75 %
-TypeScript   1 hr 6 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 %
-LESS         21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
-JSON         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
-Markdown     4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+Vue.js       6 hrs 6 mins    ████████████████▒░░░░░░░░   64.89 %
+JavaScript   2 hrs 14 mins   ██████░░░░░░░░░░░░░░░░░░░   23.80 %
+TypeScript   49 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.71 %
+LESS         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+Markdown     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+JSON         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
 ```
 
 <!--END_SECTION:waka-->
