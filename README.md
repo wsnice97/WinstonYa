@@ -92,15 +92,16 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 February 2023 - To: 25 February 2023
+From: 19 February 2023 - To: 26 February 2023
 
-Total Time: 24 hrs 20 mins
+Total Time: 25 hrs 22 mins
 
-Vue.js       14 hrs 48 mins  ███████████████░░░░░░░░░░   60.22 %
-TypeScript   4 hrs 26 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.08 %
-LESS         3 hrs 48 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.50 %
-JavaScript   49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
-Other        15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+Vue.js       16 hrs 13 mins  ████████████████░░░░░░░░░   63.86 %
+LESS         4 hrs 7 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.25 %
+TypeScript   3 hrs 44 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.70 %
+JavaScript   50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
+JSON         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+Markdown     9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
 ```
 
 <!--END_SECTION:waka-->
