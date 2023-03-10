@@ -82,7 +82,6 @@ Here are some ideas to get you started:
 <p align="center">
 <!-- 贪吃蛇代码贡献图 -->
     <img src="https://raw.githubusercontent.com/WinstonYa/WinstonYa/main/assets/github-contribution-grid-snake.svg" />
-    <img  src="https://activity-graph.herokuapp.com/graph?username=WinstonYa&theme=github" />
 </p>
 
 
