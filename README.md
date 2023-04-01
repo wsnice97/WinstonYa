@@ -91,16 +91,16 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 March 2023 - To: 31 March 2023
+From: 25 March 2023 - To: 01 April 2023
 
-Total Time: 24 hrs 16 mins
+Total Time: 26 hrs 51 mins
 
-Vue.js       17 hrs 54 mins  ██████████████████▒░░░░░░   73.68 %
-TypeScript   3 hrs 12 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.18 %
-LESS         2 hrs 3 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 %
-Markdown     32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
-Git Config   19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
-JavaScript   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+Vue.js       19 hrs 54 mins  ██████████████████▒░░░░░░   73.79 %
+TypeScript   3 hrs 13 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.95 %
+LESS         2 hrs 6 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 %
+JavaScript   37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+Markdown     34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
+Git Config   19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
 ```
 
 <!--END_SECTION:waka-->
