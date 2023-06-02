@@ -90,7 +90,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 From: 25 May 2023 - To: 01 June 2023
 
 Total Time: 9 hrs 26 mins
