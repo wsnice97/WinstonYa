@@ -91,15 +91,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 August 2023 - To: 23 August 2023
+From: 17 August 2023 - To: 24 August 2023
 
-Total Time: 25 hrs 35 mins
+Total Time: 24 hrs 19 mins
 
-TypeScript   20 hrs 17 mins  ███████████████████▓░░░░░   79.32 %
-Vue.js       2 hrs 47 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.93 %
-JavaScript   1 hr 34 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.17 %
-Less         32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
-HTML         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+TypeScript   17 hrs          █████████████████▒░░░░░░░   69.90 %
+Vue.js       4 hrs 48 mins   █████░░░░░░░░░░░░░░░░░░░░   19.73 %
+JavaScript   1 hr 45 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.22 %
+Less         30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
+SCSS         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
 
 <!--END_SECTION:waka-->
