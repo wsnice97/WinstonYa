@@ -73,15 +73,6 @@ Here are some ideas to get you started:
 
 <p align="center">
 <img height="200" src="https://github-readme-stats.vercel.app/api?username=WinstonYa&show_icons=true&theme=vue-dark&count_private=true" />
-
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WinstonYa&layout=compact&langs_count=8&theme=calm&layout=compact&hide=ejs,blade,html,css" />
-</p>
-
-
-<!-- 代码贡献月份统计 -->
-<p align="center">
-<!-- 贪吃蛇代码贡献图 -->
-    <img src="https://raw.githubusercontent.com/WinstonYa/WinstonYa/main/assets/github-contribution-grid-snake.svg" />
 </p>
 
 
