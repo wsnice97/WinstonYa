@@ -86,11 +86,7 @@ From: 13 November 2023 - To: 20 November 2023
 
 Total Time: 19 hrs 36 mins
 
-Vue.js       13 hrs 46 mins  █████████████████▓░░░░░░░   70.27 %
-SCSS         4 hrs 45 mins   ██████░░░░░░░░░░░░░░░░░░░   24.24 %
-JSON         29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
-XML          21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
-JavaScript   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
