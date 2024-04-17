@@ -82,15 +82,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 April 2024 - To: 16 April 2024
+From: 10 April 2024 - To: 17 April 2024
 
-Total Time: 39 hrs 40 mins
+Total Time: 40 hrs 26 mins
 
-Vue.js       31 hrs 5 mins   ███████████████████▓░░░░░   78.35 %
-Less         3 hrs 51 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.72 %
-TypeScript   3 hrs 12 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 %
-JavaScript   1 hr 15 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
-Markdown     8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+Vue.js       31 hrs 10 mins  ███████████████████▒░░░░░   77.07 %
+Less         4 hrs 40 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.55 %
+TypeScript   3 hrs 9 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 %
+JavaScript   1 hr 8 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
+Markdown     9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 ```
 
 <!--END_SECTION:waka-->
